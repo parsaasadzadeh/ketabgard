@@ -1,0 +1,14 @@
+ @import url('https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100..900&display=swap');
+
+ body {
+     font-family: 'Vazirmatn', sans-serif;
+ }
+
+ .book-card:hover {
+     transform: translateY(-5px);
+     box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+ }
+
+ .search-box {
+     box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+ }
